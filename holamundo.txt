@@ -1,7 +1,9 @@
 hola mundo
-<<<<<<< HEAD
-- primer cambio tras crear rama test_rebase
-- segundo cambio tras crear rama test_rebase
-=======
 1) cambios en holamundo (test_rebase branch)
->>>>>>> cambio en holamundo (test_rebase branch)
+
+
+
+
+
+
+2)cambio en holamundo (test_resbase)   =)
