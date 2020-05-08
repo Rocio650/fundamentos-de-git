@@ -1,1 +1,2 @@
-# fundamentos-de-git
+# fundamentos-de-git 
+Documento README del proyecto
