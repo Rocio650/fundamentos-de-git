@@ -1,2 +1,2 @@
-# fundamentos-de-git 
-Documento README del proyecto
+# fundamentos-de-git
+texto diferente en readme (conflicto)
